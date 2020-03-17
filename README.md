@@ -20,3 +20,5 @@ bahasa pemrograman:
 [ini email saya](https://www.zakielbavarian@gmail.com)
 
 ![Gamer icon](https://image.flaticon.com/icons/svg/2317/2317981.svg)
+
+![Awesome Logo](awesome_icon.jpg)
