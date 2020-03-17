@@ -21,4 +21,4 @@ bahasa pemrograman:
 
 ![Gamer icon](https://image.flaticon.com/icons/svg/2317/2317981.svg)
 
-![Awesome Logo](awecome_icon.jpg)
+![Awesome Logo](awecome_icon.png)
