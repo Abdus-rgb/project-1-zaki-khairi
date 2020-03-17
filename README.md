@@ -1,10 +1,10 @@
 Ini website untuk memperkenalkan diri saya secara singkat
  
-# header level 1
+# Ini header 1
 
-## header level 2
+## Ini header 2
 
-### header level 3
+### Ini header 3
 
 saya senang belajar pemrograman
 
@@ -19,3 +19,4 @@ bahasa pemrograman:
 
 [ini email saya](https://www.zakielbavarian@gmail.com)
 
+![Gamer icon](https://image.flaticon.com/icons/svg/2317/2317981.svg)
